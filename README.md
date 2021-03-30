@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohtasham9
-- 👀 I’m interested in Engineering #rd Year
+- 👀 I’m interested in Engineering 3rd Year
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me Gmail: mohtasham7862@gmailcom
