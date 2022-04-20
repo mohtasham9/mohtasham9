@@ -2,7 +2,7 @@
 - 👀 Experienced in various services of Google Cloud 
 - 🌱 Working as a Cloud Native Developer to solve the real world problems
 - 💞️ I've colloborated with various open source projects
-- 📫 How to reach me Gmail: mohtasham7862@gmailcom
+- 📫 How to reach me --> Gmail: mohtasham7862@gmailcom
 - https://www.linkedin.com/in/mohtasham-sayeed-mohiuddin-a844311a0/
 
 <!---
